@@ -1,2 +1,2 @@
 # ShapeAI-Data-Scientist-Internship
-This repository contains EDA projects and ML models built on it
+This repository contains Data Analysis, Machine Learning and Deep Learning models built by me as a part of my Data Science Internship at ShapeAI
